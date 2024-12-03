@@ -1,12 +1,12 @@
 	# Ratos-E-Masmorras
 	Projeto para desenvolvimento de jogo dungeon crawler
 
- Controles:
- Setas - Movimentação
- W/S - Seleção no menu
- Enter - Confirma ação no menu
- Esc - Cancela ação no menu
- WASD - seleciona direção do ataque
+	Controles:
+ 	Setas - Movimentação
+	W/S - Seleção no menu
+	Enter - Confirma ação no menu
+	Esc - Cancela ação no menu
+	WASD - seleciona direção do ataque
 	
 	1. Tema
 		Ratos & Masmorras será um RPG estilo dungeon crawler em pixel art, no qual o jogador assumirá controle de um rato explorador em busca do queijo divino, um item mítico que supostamente está no ponto mais profundo do esgoto.
